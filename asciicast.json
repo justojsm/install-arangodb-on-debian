@@ -100,11 +100,11 @@
     ],
     [
       0.592056,
-      "\n"
+      "\r\n"
     ],
     [
       0.002214,
-      "\n    #    #    #   ####    #####    ##    #       #\n    #    ##   #  #          #     #  #   #       #\n    #    # #  #   ####      #    #    #  #       #\n    #    #  # #       #     #    ######  #       #\n    #    #   ##  #    #     #    #    #  #       #\n    #    #    #   ####      #    #    #  ######  ######\n\n\n #    #   ####   #####   #    #  #       ######\n ##  ##  #    #  #    #  #    #  #       #\n # ## #  #    #  #    #  #    #  #       #####\n #    #  #    #  #    #  #    #  #       #\n #    #  #    #  #    #  #    #  #       #\n #    #   ####   #####    ####   ######  ######\n\n"
+      "\r\n    #    #    #   ####    #####    ##    #       #\r\n    #    ##   #  #          #     #  #   #       #\r\n    #    # #  #   ####      #    #    #  #       #\r\n    #    #  # #       #     #    ######  #       #\r\n    #    #   ##  #    #     #    #    #  #       #\r\n    #    #    #   ####      #    #    #  ######  ######\r\n\r\n\r\n #    #   ####   #####   #    #  #       ######\r\n ##  ##  #    #  #    #  #    #  #       #\r\n # ## #  #    #  #    #  #    #  #       #####\r\n #    #  #    #  #    #  #    #  #       #\r\n #    #  #    #  #    #  #    #  #       #\r\n #    #   ####   #####    ####   ######  ######\r\n\r\n"
     ],
     [
       0.000512,
@@ -276,7 +276,7 @@
     ],
     [
       1.055943,
-      "\n"
+      "\r\n"
     ],
     [
       0.666168,
@@ -1408,7 +1408,7 @@
     ],
     [
       0.001108,
-      "/home/me/.npm/lib\n└── \u001b[40m\u001b[33minstall-arangodb-on-ubuntu@0.1.0\u001b[39m\u001b[49m \n\n"
+      "/home/me/.npm/lib\r\n└── \u001b[40m\u001b[33minstall-arangodb-on-ubuntu@0.1.0\u001b[39m\u001b[49m \r\n\r\n"
     ],
     [
       0.010437,
@@ -1484,11 +1484,11 @@
     ],
     [
       1.152171,
-      "\n"
+      "\r\n"
     ],
     [
       0.001731,
-      "\n #####   #    #  #    #\n #    #  #    #  ##   #\n #    #  #    #  # #  #\n #####   #    #  #  # #\n #   #   #    #  #   ##\n #    #   ####   #    #\n\n\n #    #   ####   #####   #    #  #       ######\n ##  ##  #    #  #    #  #    #  #       #\n # ## #  #    #  #    #  #    #  #       #####\n #    #  #    #  #    #  #    #  #       #\n #    #  #    #  #    #  #    #  #       #\n #    #   ####   #####    ####   ######  ######\n\n"
+      "\r\n #####   #    #  #    #\r\n #    #  #    #  ##   #\r\n #    #  #    #  # #  #\r\n #####   #    #  #  # #\r\n #   #   #    #  #   ##\r\n #    #   ####   #    #\r\n\r\n\r\n #    #   ####   #####   #    #  #       ######\r\n ##  ##  #    #  #    #  #    #  #       #\r\n # ## #  #    #  #    #  #    #  #       #####\r\n #    #  #    #  #    #  #    #  #       #\r\n #    #  #    #  #    #  #    #  #       #\r\n #    #   ####   #####    ####   ######  ######\r\n\r\n"
     ],
     [
       0.000288,
@@ -1668,7 +1668,7 @@
     ],
     [
       1.087623,
-      "\n"
+      "\r\n"
     ],
     [
       0.010721,
@@ -1676,7 +1676,7 @@
     ],
     [
       2.661226,
-      "\n"
+      "\r\n"
     ],
     [
       0.457207,
@@ -1684,7 +1684,7 @@
     ],
     [
       0.000814,
-      "  \n  \u001b[33mdefault\u001b[39m\n"
+      "  \r\n  \u001b[33mdefault\u001b[39m\r\n"
     ],
     [
       0.000245,
@@ -1692,15 +1692,15 @@
     ],
     [
       0.001623,
-      "\u001b[?25l    \u001b[36mdefault\u001b[39m\n\u001b[?25h"
+      "\u001b[?25l    \u001b[36mdefault\u001b[39m\r\n\u001b[?25h"
     ],
     [
       0.000843,
-      "\u001b[?25l      \u001b[36minstall-arangodb\u001b[39m\n\u001b[?25h"
+      "\u001b[?25l      \u001b[36minstall-arangodb\u001b[39m\r\n\u001b[?25h"
     ],
     [
       0.009495,
-      "\u001b[?25h\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck whether ArangoDB installed\u001b[39m\n"
+      "\u001b[?25h\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck whether ArangoDB installed\u001b[39m\r\n"
     ],
     [
       0.421744,
@@ -1708,7 +1708,7 @@
     ],
     [
       0.00011,
-      "\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck whether ArangoDB installed\u001b[39m \u001b[90m(419 ms)\u001b[39m\n\u001b[?25h"
+      "\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck whether ArangoDB installed\u001b[39m \u001b[90m(419 ms)\u001b[39m\r\n\u001b[?25h"
     ],
     [
       0.001729,
@@ -1716,11 +1716,11 @@
     ],
     [
       6.1e-05,
-      "\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck whether wget installed\u001b[39m\n"
+      "\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck whether wget installed\u001b[39m\r\n"
     ],
     [
       0.414246,
-      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck whether wget installed\u001b[39m \u001b[90m(405 ms)\u001b[39m\n"
+      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck whether wget installed\u001b[39m \u001b[90m(405 ms)\u001b[39m\r\n"
     ],
     [
       4.5e-05,
@@ -1728,11 +1728,11 @@
     ],
     [
       0.000359,
-      "\u001b[?25h\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck whether apt-transport-https installed\u001b[39m\n"
+      "\u001b[?25h\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck whether apt-transport-https installed\u001b[39m\r\n"
     ],
     [
       0.426039,
-      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck whether apt-transport-https installed\u001b[39m \u001b[90m(426 ms)\u001b[39m\n"
+      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck whether apt-transport-https installed\u001b[39m \u001b[90m(426 ms)\u001b[39m\r\n"
     ],
     [
       6.9e-05,
@@ -1744,23 +1744,23 @@
     ],
     [
       6.6e-05,
-      "      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck whether /etc/apt/sources.list.d/arangodb.list exists\u001b[39m\n"
+      "      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck whether /etc/apt/sources.list.d/arangodb.list exists\u001b[39m\r\n"
     ],
     [
       0.001052,
-      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck whether /etc/apt/sources.list.d/arangodb.list exists\u001b[39m \u001b[90m(1 ms)\u001b[39m\n\u001b[?25h"
+      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck whether /etc/apt/sources.list.d/arangodb.list exists\u001b[39m \u001b[90m(1 ms)\u001b[39m\r\n\u001b[?25h"
     ],
     [
       0.000635,
-      "\u001b[?25h\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mAdd APT key\u001b[39m\n"
+      "\u001b[?25h\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mAdd APT key\u001b[39m\r\n"
     ],
     [
       3.994905,
-      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mAdd APT key\u001b[39m \u001b[90m(3995 ms)\u001b[39m\n\u001b[?25h"
+      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mAdd APT key\u001b[39m \u001b[90m(3995 ms)\u001b[39m\r\n\u001b[?25h"
     ],
     [
       0.001089,
-      "\u001b[?25h\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mUpdate APT index\u001b[39m\n"
+      "\u001b[?25h\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mUpdate APT index\u001b[39m\r\n"
     ],
     [
       16.2889,
@@ -1768,7 +1768,7 @@
     ],
     [
       7.2e-05,
-      "\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mUpdate APT index\u001b[39m \u001b[90m(16288 ms)\u001b[39m\n\u001b[?25h"
+      "\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mUpdate APT index\u001b[39m \u001b[90m(16288 ms)\u001b[39m\r\n\u001b[?25h"
     ],
     [
       0.003747,
@@ -1776,35 +1776,35 @@
     ],
     [
       0.000467,
-      "\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck whether arangodb3 package available\u001b[39m\n"
+      "\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck whether arangodb3 package available\u001b[39m\r\n"
     ],
     [
       0.45277,
-      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck whether arangodb3 package available\u001b[39m \u001b[90m(453 ms)\u001b[39m\n\u001b[?25h"
+      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck whether arangodb3 package available\u001b[39m \u001b[90m(453 ms)\u001b[39m\r\n\u001b[?25h"
     ],
     [
       0.001294,
-      "\u001b[?25h\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mInstall arangodb3 package\u001b[39m\n"
+      "\u001b[?25h\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mInstall arangodb3 package\u001b[39m\r\n"
     ],
     [
       15.541713,
-      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mInstall arangodb3 package\u001b[39m \u001b[90m(15542 ms)\u001b[39m\n\u001b[?25h"
+      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mInstall arangodb3 package\u001b[39m \u001b[90m(15542 ms)\u001b[39m\r\n\u001b[?25h"
     ],
     [
       0.000219,
-      "\u001b[?25h\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck arangod command\u001b[39m\n"
+      "\u001b[?25h\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck arangod command\u001b[39m\r\n"
     ],
     [
       0.027111,
-      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck arangod command\u001b[39m \u001b[90m(27 ms)\u001b[39m\n\u001b[?25h"
+      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck arangod command\u001b[39m \u001b[90m(27 ms)\u001b[39m\r\n\u001b[?25h"
     ],
     [
       0.000227,
-      "\u001b[?25h\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck arangosh command\u001b[39m\n"
+      "\u001b[?25h\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck arangosh command\u001b[39m\r\n"
     ],
     [
       0.013001,
-      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck arangosh command\u001b[39m \u001b[90m(12 ms)\u001b[39m\n\u001b[?25h"
+      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck arangosh command\u001b[39m \u001b[90m(12 ms)\u001b[39m\r\n\u001b[?25h"
     ],
     [
       0.000212,
@@ -1812,11 +1812,11 @@
     ],
     [
       7.3e-05,
-      "      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck arangodump command\u001b[39m\n"
+      "      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck arangodump command\u001b[39m\r\n"
     ],
     [
       0.013977,
-      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck arangodump command\u001b[39m \u001b[90m(13 ms)\u001b[39m\n"
+      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck arangodump command\u001b[39m \u001b[90m(13 ms)\u001b[39m\r\n"
     ],
     [
       3.2e-05,
@@ -1828,23 +1828,23 @@
     ],
     [
       0.000198,
-      "\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck arangoimp command\u001b[39m\n"
+      "\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck arangoimp command\u001b[39m\r\n"
     ],
     [
       0.013381,
-      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck arangoimp command\u001b[39m \u001b[90m(13 ms)\u001b[39m\n\u001b[?25h"
+      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck arangoimp command\u001b[39m \u001b[90m(13 ms)\u001b[39m\r\n\u001b[?25h"
     ],
     [
       0.000204,
-      "\u001b[?25h\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck arangorestore command\u001b[39m\n"
+      "\u001b[?25h\u001b[?25l      [ \u001b[33mCR\u001b[39m ] \u001b[90mCheck arangorestore command\u001b[39m\r\n"
     ],
     [
       0.0119,
-      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck arangorestore command\u001b[39m \u001b[90m(11 ms)\u001b[39m\n\u001b[?25h"
+      "\u001b[?25l\u001b[1000D\u001b[K\u001b[1A\u001b[1000D\u001b[K      [ \u001b[32mOK\u001b[39m ] \u001b[90mCheck arangorestore command\u001b[39m \u001b[90m(11 ms)\u001b[39m\r\n\u001b[?25h"
     ],
     [
       0.002068,
-      "\u001b[?25l\n"
+      "\u001b[?25l\r\n"
     ],
     [
       2.9e-05,
@@ -1856,7 +1856,7 @@
     ],
     [
       3.1e-05,
-      "  \u001b[32mOK\u001b[39m 13 | \u001b[31mFailed\u001b[39m 0 | \u001b[37mIgnored\u001b[39m 0 | Total 13\n\u001b[?25h"
+      "  \u001b[32mOK\u001b[39m 13 | \u001b[31mFailed\u001b[39m 0 | \u001b[37mIgnored\u001b[39m 0 | Total 13\r\n\u001b[?25h"
     ],
     [
       1.5e-05,
@@ -1864,7 +1864,7 @@
     ],
     [
       0.000101,
-      "\n\u001b[?25h"
+      "\r\n\u001b[?25h"
     ],
     [
       0.001095,
