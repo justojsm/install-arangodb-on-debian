@@ -1,0 +1,15 @@
+language: node_js
+node_js:
+  - 7.0
+  - 7.1
+  - 7.2
+os:
+  - linux
+sudo: false
+before_install: npm install -g justo-cli
+install: npm install
+#before_script:
+#script:
+#after_success:
+#after_failure:
+#after_script:

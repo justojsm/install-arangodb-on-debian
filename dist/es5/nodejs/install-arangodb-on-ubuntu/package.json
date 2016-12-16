@@ -1,0 +1,58 @@
+{
+  "name": "install-arangodb-on-ubuntu",
+  "version": "0.1.0",
+  "description": "Justo module for installing ArangoDB on Ubuntu.",
+  "homepage": "http://justojs.org",
+  "author": {
+    "name": "Justo Labs",
+    "email": "hello@justolabs.com",
+    "url": "http://justojs.org"
+  },
+  "contributors": [
+    {
+      "name": "Raúl G. González",
+      "email": "raulggonzalez@justojs.org",
+      "url": ""
+    }
+  ],
+  "keywords": [
+    "ArangoDB",
+    "Justo",
+    "Justo.js",
+    "justo-module"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justojsm/install-arangodb-on-ubuntu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/justojsm/install-arangodb-on-ubuntu/issues",
+    "email": "issues@justojs.org"
+  },
+  "engines": {
+    "node": ">=7.0.0",
+    "npm": ">=3.0.0"
+  },
+  "dependencies": {
+    "getos": "*",
+    "justo": "*",
+    "justo-sync": "*",
+    "justo-plugin-apt": "*",
+    "justo-plugin-cli": "*",
+    "justo-plugin-fs": "*",
+    "justo-plugin-npm": "*"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "*",
+    "justo-plugin-eslint": "*",
+    "justo-plugin-babel": "*"
+  },
+  "main": "index.js",
+  "files": [
+    "lib",
+    "Justo.js"
+  ],
+  "scripts": {
+    "test": "justo test"
+  }
+}
