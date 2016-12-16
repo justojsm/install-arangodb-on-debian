@@ -15,6 +15,8 @@ $ npm install -g install-arangodb-on-ubuntu
 $ justo -m install-arangodb-on-ubuntu
 ```
 
-<link rel="stylesheet" type="text/css" href="https://github.com/asciinema/asciinema-player/releases/download/v2.3.1/asciinema-player.css" />
-<asciinema-player src="https://raw.githubusercontent.com/justojsm/install-arangodb-on-ubuntu/master/asciicast.json"></asciinema-player>
-<script src="https://github.com/asciinema/asciinema-player/releases/download/v2.3.1/asciinema-player.js"></script>
+<div>
+  <link rel="stylesheet" type="text/css" href="https://github.com/asciinema/asciinema-player/releases/download/v2.3.1/asciinema-player.css" />
+  <asciinema-player autoplay preload loop speed="1.5" src="https://raw.githubusercontent.com/justojsm/install-arangodb-on-ubuntu/master/asciicast.json"></asciinema-player>
+  <script src="https://github.com/asciinema/asciinema-player/releases/download/v2.3.1/asciinema-player.js"></script>
+</div>
